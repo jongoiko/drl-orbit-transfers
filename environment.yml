@@ -1,0 +1,11 @@
+name: drl-orbit-transfers
+channels:
+- conda-forge
+dependencies:
+- numba
+- pykep=2.6.2
+- python[version='<3.11']
+- tensorboard
+- pip
+- pip:
+  - -r requirements.txt

@@ -1,0 +1,6 @@
+param,initial,goal,weight
+a_km,20000,30000,1e-07
+e,0,0,2.0
+i_deg,15,15,0.1
+raan_deg,0,0,0.1
+peri_deg,0,0,0.1
